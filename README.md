@@ -1,0 +1,2 @@
+# funny-page
+funny-page
